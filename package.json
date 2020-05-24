@@ -1,0 +1,14 @@
+{
+  "name": "svg2img",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/martin-starosta/svg2png.git",
+  "author": "Martin Starosta <martin.starosta@labzone.sk>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "svg-to-img": "^2.0.9"
+  }
+}
