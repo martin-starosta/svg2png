@@ -10,6 +10,7 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "svg-to-img": "^2.0.9"
+    "puppeteer": "^3.1.0",
+    "puppeteer-core": "^3.1.0"
   }
 }
